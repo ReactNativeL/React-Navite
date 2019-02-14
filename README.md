@@ -29,3 +29,11 @@ https://github.com/AlexanderZaytsev/react-native-i18n
 # npm install --save react-native-elements
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Advance Component
 https://react-native-training.github.io/react-native-elements/docs/0.19.1/avatar.html
+
+# npm install axios
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ HTTP Client
+https://www.npmjs.com/package/react-native-axios
+
+# react-native-qrcode-scanner
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ QR Code Scanner
+https://github.com/moaazsidat/react-native-qrcode-scanner
