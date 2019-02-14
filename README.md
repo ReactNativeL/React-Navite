@@ -1,7 +1,4 @@
-# React-Navite
+# react-native-image-crop-picker
 React-Native Project
 
-Project file for React-Native
-react-native-image-crop-picker
-Backers on Open Collective Sponsors on Open Collective
-
+https://github.com/ivpusic/react-native-image-crop-picker
