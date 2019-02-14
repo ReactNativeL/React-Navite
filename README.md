@@ -22,3 +22,7 @@ https://reactnativecode.com/upload-image-to-server-using-php-mysql/
 * ວິທີການໃຊ້ຖານຂໍ້ມູນຂອງ redux-persist ໃນການຈັດການຂອງ redux
 
 https://github.com/rt2zz/redux-persist
+
+# npm install react-native-i18n --save
+* ວິທີການເຮັດແອັບ ຫຼາຍພາສາ
+https://github.com/AlexanderZaytsev/react-native-i18n
