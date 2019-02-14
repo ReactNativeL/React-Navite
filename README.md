@@ -1,3 +1,7 @@
+# React Native Get Start
+* ເລີ່ມຕົ້ນຮຽນ React-native
+https://facebook.github.io/react-native/
+
 # react-native-image-crop-picker
 * ວິທີການໃຊ້ Camera
 https://github.com/ivpusic/react-native-image-crop-picker
