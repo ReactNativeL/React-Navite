@@ -25,3 +25,7 @@ https://github.com/rt2zz/redux-persist
 # npm install react-native-i18n --save
 * ວິທີການເຮັດແອັບ ຫຼາຍພາສາ
 https://github.com/AlexanderZaytsev/react-native-i18n
+
+# npm install --save react-native-elements
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Advance Component
+https://react-native-training.github.io/react-native-elements/docs/0.19.1/avatar.html
