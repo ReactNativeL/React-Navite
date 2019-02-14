@@ -17,3 +17,8 @@ https://reactnavigation.org/docs/en/getting-started.html
 * ວິທີການ Upload ຮູບພາບຂື້ນເຊີເວີ
 
 https://reactnativecode.com/upload-image-to-server-using-php-mysql/
+
+# npm install redux-persist
+* ວິທີການໃຊ້ຖານຂໍ້ມູນຂອງ redux-persist ໃນການຈັດການຂອງ redux
+
+https://github.com/rt2zz/redux-persist
