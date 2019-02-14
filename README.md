@@ -1,4 +1,3 @@
 # react-native-image-crop-picker
-React-Native Project
-
+ວິທີການໃຊ້ Camera
 https://github.com/ivpusic/react-native-image-crop-picker
