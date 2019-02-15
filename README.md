@@ -34,6 +34,10 @@ https://react-native-training.github.io/react-native-elements/docs/0.19.1/avatar
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ HTTP Client
 https://www.npmjs.com/package/react-native-axios
 
+# npm install --save react-navigation-slide-from-right-transition
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Navigation Slide
+https://www.npmjs.com/package/react-navigation-slide-from-right-transition
+
 # react-native-qrcode-scanner
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ QR Code Scanner
 https://github.com/moaazsidat/react-native-qrcode-scanner
