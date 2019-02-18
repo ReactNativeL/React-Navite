@@ -41,3 +41,7 @@ https://www.npmjs.com/package/react-navigation-slide-from-right-transition
 # react-native-qrcode-scanner
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ QR Code Scanner
 https://github.com/moaazsidat/react-native-qrcode-scanner
+
+# npm install react-native-maps --save
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Google Map
+https://github.com/react-native-community/react-native-maps
