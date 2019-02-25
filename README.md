@@ -53,3 +53,7 @@ https://www.npmjs.com/package/react-native-modalbox
 # npm install react-native-exit-app --save
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Exit App
 https://www.npmjs.com/package/react-native-exit-app
+
+# npm install react-native-maps --save
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Google maps
+https://github.com/react-native-community/react-native-maps/blob/master/docs/installation.md
