@@ -57,3 +57,7 @@ https://www.npmjs.com/package/react-native-exit-app
 # npm install react-native-maps --save
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Google maps
 https://github.com/react-native-community/react-native-maps/blob/master/docs/installation.md
+
+# npm install --save react-native-push-notification
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Notification
+https://github.com/zo0r/react-native-push-notification
