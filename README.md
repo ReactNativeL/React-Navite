@@ -61,3 +61,7 @@ https://github.com/react-native-community/react-native-maps/blob/master/docs/ins
 # npm install --save react-native-push-notification
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Notification
 https://github.com/zo0r/react-native-push-notification
+
+# npm install react-native-spinkit@latest --save
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ Progressbar
+https://github.com/maxs15/react-native-spinkit
