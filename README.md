@@ -69,3 +69,8 @@ https://github.com/maxs15/react-native-spinkit
 # npm install --save react-native-material-textfield
 * ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ react-native-material-textfield
 https://github.com/n4kz/react-native-material-textfield
+
+
+# npm i react-native-multiple-choice --save
+* ວິທີການຕິດຕັ້ງ ແລະ ໃຊ້ງານ react-native-multiple-choice
+https://github.com/d-a-n/react-native-multiple-choice
