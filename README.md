@@ -80,7 +80,7 @@ https://github.com/d-a-n/react-native-multiple-choice
 # npm install react-native-bluetooth-escpos-printer --save
 * ວິທີເຊື່ອມຕໍ່ກັບ Printer (ໃຊ້ຂອງ Epson TM-P20_000537 ຫຼື Epson Model M328A OT-SC20) 
 * https://www.youtube.com/watch?v=32hUGGpT71Y
-https://github.com/januslo/react-native-bluetooth-escpos-printer
+* https://github.com/januslo/react-native-bluetooth-escpos-printer
 
 
 
